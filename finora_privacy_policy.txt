@@ -1,0 +1,32 @@
+Privacy Policy for Finora
+
+Effective Date: May 6, 2025
+
+Finora is a personal expense tracking app designed to help users manage their finances locally and securely.
+
+1. Information We Collect
+We do not collect or store any personal information on our servers. All data you enter — such as expenses, categories, and notes — is stored locally on your device.
+
+2. Data Security
+Your financial data stays on your device unless you manually share or export it (e.g., via PDF export). We do not transmit, process, or analyze any of your data remotely.
+
+3. Permissions
+Finora may request access to:
+- Storage – to generate and export PDF reports
+- Notifications – to remind you about budget alerts or recurring entries
+
+These permissions are used solely for app functionality.
+
+4. No Ads or Analytics
+Finora does not use third-party advertising or analytics libraries. We respect your privacy by design.
+
+5. Paid App Notice
+Finora is a paid app with no in-app purchases or subscriptions. Your purchase is handled securely through the Google Play Store.
+
+6. Contact
+If you have any questions about this policy, you can contact us at:
+support@finoraapp.com  
+📧 rgened1982@gmail.com
+
+7. Changes to This Policy
+We may update this privacy policy if necessary. Any changes will be posted here.
